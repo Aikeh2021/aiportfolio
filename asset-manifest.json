@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/aiportfolio/static/css/main.c2473fe9.chunk.css",
+    "main.js": "/aiportfolio/static/js/main.c33da547.chunk.js",
+    "main.js.map": "/aiportfolio/static/js/main.c33da547.chunk.js.map",
+    "runtime-main.js": "/aiportfolio/static/js/runtime-main.8a473ebd.js",
+    "runtime-main.js.map": "/aiportfolio/static/js/runtime-main.8a473ebd.js.map",
+    "static/js/2.7cc6a6c6.chunk.js": "/aiportfolio/static/js/2.7cc6a6c6.chunk.js",
+    "static/js/2.7cc6a6c6.chunk.js.map": "/aiportfolio/static/js/2.7cc6a6c6.chunk.js.map",
+    "static/js/3.ac294e35.chunk.js": "/aiportfolio/static/js/3.ac294e35.chunk.js",
+    "static/js/3.ac294e35.chunk.js.map": "/aiportfolio/static/js/3.ac294e35.chunk.js.map",
+    "index.html": "/aiportfolio/index.html",
+    "static/css/main.c2473fe9.chunk.css.map": "/aiportfolio/static/css/main.c2473fe9.chunk.css.map",
+    "static/js/2.7cc6a6c6.chunk.js.LICENSE.txt": "/aiportfolio/static/js/2.7cc6a6c6.chunk.js.LICENSE.txt",
+    "static/media/Background.ce05e40f.png": "/aiportfolio/static/media/Background.ce05e40f.png",
+    "static/media/Background2.d633c0f5.png": "/aiportfolio/static/media/Background2.d633c0f5.png",
+    "static/media/Background3.9e947002.png": "/aiportfolio/static/media/Background3.9e947002.png",
+    "static/media/Budget.323d0758.png": "/aiportfolio/static/media/Budget.323d0758.png",
+    "static/media/Directory.9a584f48.png": "/aiportfolio/static/media/Directory.9a584f48.png",
+    "static/media/Encrypted.a6ca57f3.png": "/aiportfolio/static/media/Encrypted.a6ca57f3.png",
+    "static/media/Headshot.18b6bdeb.png": "/aiportfolio/static/media/Headshot.18b6bdeb.png",
+    "static/media/Inspirator.28b1290c.png": "/aiportfolio/static/media/Inspirator.28b1290c.png",
+    "static/media/Reserve.a1d7da9f.png": "/aiportfolio/static/media/Reserve.a1d7da9f.png",
+    "static/media/Resume.08f04df4.png": "/aiportfolio/static/media/Resume.08f04df4.png",
+    "static/media/Scheduler.41be858d.png": "/aiportfolio/static/media/Scheduler.41be858d.png",
+    "static/media/Submanny.e298b31f.png": "/aiportfolio/static/media/Submanny.e298b31f.png",
+    "static/media/Weather.2c2fe999.png": "/aiportfolio/static/media/Weather.2c2fe999.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a473ebd.js",
+    "static/js/2.7cc6a6c6.chunk.js",
+    "static/css/main.c2473fe9.chunk.css",
+    "static/js/main.c33da547.chunk.js"
+  ]
+}
