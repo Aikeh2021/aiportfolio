@@ -11,7 +11,7 @@ This website will supplement any job applications I submit, as well as, serve as
 
 ![Portfolio Navigation Demo](src/Assets/Portfolio-Demo.gif)
 
-[Click here](https://aikeh2021.github.io/React-Portfolio/) to view my portfolio! [Click here](https://github.com/Aikeh2021/React-Portfolio) to view the repository for my portfolio.
+[Click here](https://aikeh2021.github.io/aiportfolio/) to view my portfolio! [Click here](https://github.com/Aikeh2021/aiportfolio) to view the repository for my portfolio.
 
 ## Contents
 
