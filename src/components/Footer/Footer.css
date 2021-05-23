@@ -1,0 +1,31 @@
+#footer-div {
+    padding-top: 20px;
+    background-color: #000000;
+    color: 	#A9A9A9;
+
+}
+
+#floatingTextarea2 {
+    min-height: 150px;
+}
+
+.footer-info {
+    text-align: center;
+    padding-bottom: 20px;
+    color:#A9A9A9;
+}
+
+.footer-links:hover {
+    color: white;
+}
+
+.footer-links {
+    text-decoration: none;
+    color: #A9A9A9;
+    font-size: 14px;
+}
+
+.prvcy-stmt {
+    padding-bottom: 10px;
+    text-align: center;
+}

@@ -1,0 +1,34 @@
+#contact-div{
+    margin: auto;
+    margin-bottom: 40px;
+}
+
+#linked{
+    width: 70%;
+}
+#ghub{
+    width: 70%;
+}
+#gmail{
+    width: 70%;
+}
+
+
+.cc{
+    width: 30%;
+}
+
+@media screen and (max-width: 769px) {
+    #linked{
+        width: 60%;
+        margin: 10px
+    }
+    #gmail{
+        width: 60%;
+        margin: 10px
+    }
+    #ghub{
+        width: 60%;
+        margin: 10px
+    }
+}
